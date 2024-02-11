@@ -30,7 +30,7 @@ Welcome to the Movie Search App! This is a simple web application that allows us
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/yourusername/movie-search-app.git
+    git clone https://github.com/Ashirvad-Singh/MOvieapp.git
     ```
 
 2. **Navigate to the project directory:**
